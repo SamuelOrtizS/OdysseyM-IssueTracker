@@ -1,28 +1,21 @@
----
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
 
-# Welcome
+![OdysseyM - Logo](https://i.imgur.com/d2XOMrZ.png)
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+# OdysseyM
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+[![GitHub last commit](https://img.shields.io/github/last-commit/SamuelOrtizS/OdysseyM-IssueTracker)](https://github.com/SamuelOrtizS/OdysseyM-IssueTracker/commits/main/)
+[![GitHub issues](https://img.shields.io/github/issues/SamuelOrtizS/OdysseyM-IssueTracker)](https://github.com/SamuelOrtizS/OdysseyM-IssueTracker/issues)
+[![Discord](https://img.shields.io/badge/Discord-OdysseyM_RP-FFE600?logo=discord&logoColor=%235865F2)](https://discord.gg/at9ATyUj)
 
-### Jump right in
+Este repositorio sirve como tracker para los problemas encontrados en el servidor, asi como almacenamiento para el gitbook oficial del servidor.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td><a href=".gitbook/assets/1.png">1.png</a></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td><a href=".gitbook/assets/2.png">2.png</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td><a href=".gitbook/assets/3.png">3.png</a></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
+OdysseyM es un servidor de roleplay basado en QBox Core, implementado y personalizando scripts de código abierto o disponibles gratuitamente o mediante pago al momento de su integración.
+
+# License
+[(Back to top)](#table-of-contents)
+
+El contenido de este repositorio pertenece a sus respectivos creadores, su uso comercial está terminantemente prohibido a menos que se indique lo contrario.
+- QBox, QBox Core y el contenido de resources/[qbx] se puede encontrar en: https://docs.qbox.re/
+- FXServer, TXAdmin y el contenido de FiveM ultilizado se pueden encontrar en: https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/
+
+
