@@ -3,8 +3,8 @@
 
 # OdysseyM
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/last-commit/navendu-pottekkat/awesome-readme)
-[![GitHub issues](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)
+[![GitHub last commit](https://img.shields.io/github/last-commit/SamuelOrtizS/OdysseyM-IssueTracker)](https://github.com/SamuelOrtizS/OdysseyM-IssueTracker/commits/main/)
+[![GitHub issues](https://img.shields.io/github/issues/SamuelOrtizS/OdysseyM-IssueTracker)](https://github.com/SamuelOrtizS/OdysseyM-IssueTracker/issues)
 [![Discord](https://img.shields.io/badge/Discord-OdysseyM_RP-FFE600?logo=discord&logoColor=%235865F2)](https://discord.gg/at9ATyUj)
 
 Servidor de Roleplay basado en QBox Core, implementado y personalizando scripts de código abierto o disponibles gratuitamente o mediante pago al momento de su integración.
