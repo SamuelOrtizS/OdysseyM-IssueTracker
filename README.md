@@ -1,13 +1,15 @@
 
 ![OdysseyM - Logo](https://i.imgur.com/d2XOMrZ.png)
 
-# OdysseyM
+# OdysseyM - Issue Tracker
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/SamuelOrtizS/OdysseyM-IssueTracker)](https://github.com/SamuelOrtizS/OdysseyM-IssueTracker/commits/main/)
 [![GitHub issues](https://img.shields.io/github/issues/SamuelOrtizS/OdysseyM-IssueTracker)](https://github.com/SamuelOrtizS/OdysseyM-IssueTracker/issues)
 [![Discord](https://img.shields.io/badge/Discord-OdysseyM_RP-FFE600?logo=discord&logoColor=%235865F2)](https://discord.gg/at9ATyUj)
 
-Servidor de Roleplay basado en QBox Core, implementado y personalizando scripts de código abierto o disponibles gratuitamente o mediante pago al momento de su integración.
+Este repositorio sirve como tracker para los problemas encontrados en el servidor de roleplay OdysseyM en FiveM.
+
+OdysseyM es ub servidor de Roleplay basado en QBox Core, implementado y personalizando scripts de código abierto o disponibles gratuitamente o mediante pago al momento de su integración.
 
 # License
 [(Back to top)](#table-of-contents)
